@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/naukri_auth.json
+data/*.png
+data/*
+
+app/naukri/manual_review
